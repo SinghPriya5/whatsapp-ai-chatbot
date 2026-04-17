@@ -1,0 +1,5 @@
+__pycache__/
+.env
+ngrok
+*.pyc
+send_template.py
