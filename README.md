@@ -138,7 +138,7 @@ https://your-ngrok-url/whatsapp
 
 ### 📌 AI Chat (LLM Response)
 
-![AI Chat](./assets/chat2.png)
+![AI Chat](https://github.com/SinghPriya5/whatsapp-ai-chatbot/blob/main/AI%20Chat.jpeg)
 
 ---
 
