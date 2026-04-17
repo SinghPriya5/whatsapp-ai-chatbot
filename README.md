@@ -132,13 +132,13 @@ https://your-ngrok-url/whatsapp
 
 ### 📌 Booking Flow (Rule-Based)
 
-![Booking Chat](https://github.com/SinghPriya5/whatsapp-ai-chatbot/blob/main/Booking%20Chat.jpeg)
+<img src="https://github.com/SinghPriya5/whatsapp-ai-chatbot/blob/main/Booking%20Chat.jpeg" width="300" height="600"/>
 
 ---
 
 ### 📌 AI Chat (LLM Response)
 
-![AI Chat](https://github.com/SinghPriya5/whatsapp-ai-chatbot/blob/main/AI%20Chat.jpeg)
+<img src="https://github.com/SinghPriya5/whatsapp-ai-chatbot/blob/main/AI%20Chat.jpeg" width="300" height="500"/>
 
 ---
 
