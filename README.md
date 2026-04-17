@@ -132,7 +132,7 @@ https://your-ngrok-url/whatsapp
 
 ### 📌 Booking Flow (Rule-Based)
 
-<img src="https://github.com/SinghPriya5/whatsapp-ai-chatbot/blob/main/Booking%20Chat.jpeg" width="300" height="600"/>
+<img src="https://github.com/SinghPriya5/whatsapp-ai-chatbot/blob/main/Booking%20Chat.jpeg" width="500" height="800"/>
 
 ---
 
